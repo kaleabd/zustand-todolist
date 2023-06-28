@@ -1,6 +1,4 @@
-# zustand state management
-
-=> learning zustand state management with buildig todo list app
+# React js todo App
 
 ## Live preview
 
